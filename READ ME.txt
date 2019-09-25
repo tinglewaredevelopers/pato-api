@@ -1,0 +1,13 @@
+## About Pato api
+
+Pato API(Application Programmer Interface) é uma aplicação web, dinamica, eficiente para a venda de ingressos e convites
+para eventos particulares, te deixando mais informado sobre os eventos
+Podes convidar os teus amigos, famíliares ou colegas de trabalho apartir do whatsapp, Facebook, ou até mesmo por mensagens de texto.
+
+##Como funciona?
+
+##Como posso usar?
+
+## Contribuições
+
+##Licensa 
